@@ -36,7 +36,14 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Fork no Respositório e Ativação do GitHub Pages](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/63bb047d-d0a3-46fd-b206-eff9abeebcfd)[Dados Pessoais](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/a38c94f1-f61e-47d3-96df-593e18bff36a)[Seções "Sobre" e "Experiências"](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/3e3b0a96-1599-4f3a-b204-457d516f04ba)[Seção "Educação" Usando Certificados da DIO](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/e4ada1a0-b405-49a1-93ef-b3fc6291a801)[Seção "Projetos" Usando Seu Portfólio da DIO](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/0e3535ef-3b71-4bff-9fd2-8e2d72aa75ff)[Paleta de Cores e Potenciais Melhorias](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/7b260c73-1cbd-4d81-a6c0-8c8853c9c2eb)[Dúvidas e Comentários Finais](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/bc9c2c27-54c0-4aea-ada4-3ddc3c5aa3cf)[Entendendo o Desafio](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/e472acf3-b2a0-4ee6-a374-a8458dc32941)
+- [Fork no Respositório e Ativação do GitHub Pages](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/63bb047d-d0a3-46fd-b206-eff9abeebcfd)
+- [Dados Pessoais](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/a38c94f1-f61e-47d3-96df-593e18bff36a)
+- [Seções "Sobre" e "Experiências"](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/3e3b0a96-1599-4f3a-b204-457d516f04ba)
+- [Seção "Educação" Usando Certificados da DIO](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/e4ada1a0-b405-49a1-93ef-b3fc6291a801)
+- [Seção "Projetos" Usando Seu Portfólio da DIO](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/0e3535ef-3b71-4bff-9fd2-8e2d72aa75ff)
+- [Paleta de Cores e Potenciais Melhorias](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/7b260c73-1cbd-4d81-a6c0-8c8853c9c2eb)
+- [Dúvidas e Comentários Finais](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/bc9c2c27-54c0-4aea-ada4-3ddc3c5aa3cf)
+- [Entendendo o Desafio](https://web.dio.me/lab/criando-seu-curriculo-online-com-html-e-github-pages/learning/e472acf3-b2a0-4ee6-a374-a8458dc32941)
 
 
 
